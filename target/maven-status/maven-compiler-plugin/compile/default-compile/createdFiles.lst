@@ -1,0 +1,10 @@
+com\example\Mortage\Controller\mortageController.class
+com\example\Mortage\Model\LoanOffer.class
+com\example\Mortage\Repository\LoanOfferRepository.class
+com\example\Mortage\Model\OfferDetails.class
+com\example\Mortage\Model\User.class
+com\example\Mortage\Model\Property.class
+com\example\Mortage\ConfigFiles\SwaggerConfig.class
+com\example\Mortage\Service\mortageService.class
+com\example\Mortage\Repository\PropertyRepository.class
+com\example\Mortage\MortageApplication.class

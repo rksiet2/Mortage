@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.Mortage.MortageApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 143.889 s - in com.example.Mortage.MortageApplicationTests
